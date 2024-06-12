@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyas Prabhakar</h1>
+<h1 align="center">Hi👋, I am Shreyas Prabhakar</h1>
 <h3 align="center">A Machine Learning Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQFvUE806nw77g/feedshare-shrink_800/0/1700906598558?e=2147483647&v=beta&t=uOoznTcBcOAnZe9vsO5H3i-IHCZhKy7QkSLkBWbHN7U">
 
