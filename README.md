@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shreyas Prabhakar</h1>
+<h1 align="center">Hi👋, I'm Shreyas Prabhakar</h1>
 <h3 align="center">A Machine Learning Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5622AQFvUE806nw77g/feedshare-shrink_800/0/1700906598558?e=2147483647&v=beta&t=uOoznTcBcOAnZe9vsO5H3i-IHCZhKy7QkSLkBWbHN7U">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasprabhakar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasprabhakar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyasprabhakar" alt="shreyasprabhakar" /></a> </p>
 
 - 🌱 I’m currently learning **Python, PostgreSQL, WebDev**
 
@@ -26,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasprabhakar&show_icons=true&locale=en" alt="shreyasprabhakar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasprabhakar&" alt="shreyasprabhakar" /></p>
-
