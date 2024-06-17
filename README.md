@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Python and PostgreSQL**
 
-- 🤝 I’m looking for help with **python, html, css**
+- 🤝 I’m looking for help with **html and css**
 
 - 📫 Contact me @ **shreyasprabhakar1012@gmail.com**
 
