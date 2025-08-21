@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm Shreyas Prabhakar</h1>
 <h3 align="center">A Machine Learning Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=iron%20man%20coding&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Ffc%2Fe3%2Fcf%2Ffce3cf3cfde3fdfd8fdae314e489f48c.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fcartoon-character-pictures--804385183473321777%2F&docid=O0kgguDG-PMC_M&tbnid=GRRsgg97yqexSM&vet=12ahUKEwiqtqOQrZyPAxXcs1YBHUVYA5AQM3oECCkQAA..i&w=736&h=736&hcb=2&ved=2ahUKEwiqtqOQrZyPAxXcs1YBHUVYA5AQM3oECCkQAA">
 
 - 🌱 I’m currently learning **Python**
 
