@@ -5,7 +5,7 @@
 
 - 📫 Contact me @ **shreyasprabhakar1012@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https: linkedin.com/in/shreyasprabhakar1012/ </h3>
 <p align="left">
 </p>
 
