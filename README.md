@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Shreyas Prabhakar</h1>
-<h3 align="center">A Python enthusiast from India</h3>
+<h3 align="center">Goal-driven IT engineer with hands-on experience in Python and SQL, and a strong interest in exploring and building solutions in Data, Machine Learning and Artificial Intelligence.</h3>
 
-- 🌱 I’m currently learning **Python, SQL and Big Data**
+🌱 I’m currently seeking opportunities as a Data Analyst or Machine Learning Engineer.
 
 - 📫 Contact me @ **shreyasprabhakar1012@gmail.com**
 
